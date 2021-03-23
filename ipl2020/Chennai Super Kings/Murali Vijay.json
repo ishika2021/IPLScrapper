@@ -1,0 +1,24 @@
+[
+    {
+        "Runs": "21",
+        "Balls": "21",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "100.00",
+        "Date": "Sep 22 2020",
+        "Venue": "Sharjah",
+        "Result": "Royals won by 16 runs",
+        "Opponent-Team": "Rajasthan Royals"
+    },
+    {
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29",
+        "Date": "Sep 19 2020",
+        "Venue": "Abu Dhabi",
+        "Result": "Super Kings won by 5 wickets (with 4 balls remaining)",
+        "Opponent-Team": "Mumbai Indians"
+    }
+]
